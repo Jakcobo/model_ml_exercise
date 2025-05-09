@@ -1,5 +1,3 @@
-# E-Commerce Product Condition Classification
-
 ## Repository Structure
 
 ```
